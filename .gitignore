@@ -8,6 +8,7 @@
 
 # Ignore database files
 db.sqlite3
+.db
 
 # Ignore migration files (optional: only if you don't want them in Git)
 store/migrations/
@@ -15,4 +16,4 @@ store/migrations/
 # Ignore virtual environments and dependency files
 venv/
 .env
-*.log
+*.log 
